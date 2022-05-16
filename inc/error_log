@@ -1,0 +1,1 @@
+[07-Dec-2018 21:02:46 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/misfits2/public_html/wp-content/themes/deimunddesignshero/inc/customizer.php on line 29
